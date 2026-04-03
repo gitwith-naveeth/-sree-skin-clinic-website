@@ -4,11 +4,11 @@ Official website for Sree Skin Hair & Cosmetic Clinic.
 
 ## Live Deployment
 
-[![Live on Vercel](https://img.shields.io/badge/Live%20Website-Vercel-000000?style=for-the-badge&logo=vercel)](https://test-n8n-ro97rux5x-gitwith-naveeths-projects.vercel.app)
+[![Live on Vercel](https://img.shields.io/badge/Live%20Website-Vercel-000000?style=for-the-badge&logo=vercel)](https://test-n8n-topaz.vercel.app)
 
 ### Embedded Link Preview
 
-<a href="https://test-n8n-ro97rux5x-gitwith-naveeths-projects.vercel.app" target="_blank">https://test-n8n-ro97rux5x-gitwith-naveeths-projects.vercel.app</a>
+<a href="https://test-n8n-topaz.vercel.app" target="_blank">https://test-n8n-topaz.vercel.app</a>
 
 ---
 
